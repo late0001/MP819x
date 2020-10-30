@@ -1,0 +1,87 @@
+///////////////////////////////////////////////////////////////////////
+// TI   : TestItem
+//        None   : NONE                  
+//        PketTx : PACKETS_TX            
+//        PketRx : PACKETS_RX            
+//        ConsTx : CONTINUOUS_TX         
+//        CrSnTX : Carrier_Suppression_TX
+//        OSnTTx : OFDM_Single_Tone_Tx   
+//        PMACLb : PMAC_Loopback         
+//        OFDMLb : OFDM_Loopback         
+//        CCK_Lb : CCK_Loopback          
+//        RfStMd : RF_Standby_Mode       
+//        RfDSMd : RF_Deep_Standby_Mode  
+//        RfSlMd : RF_Sleeping_Mode      
+//        BBRest : BB_Reset              
+//        ReInit : ReInitialize          
+//                   
+//
+//
+//
+//
+//
+// Rate : Data Rate
+// Prm  : Preamble
+// Mod  : Modulation
+// Ptn  : Packet Pattern
+// PLen : Packet Length
+// PCnt : Packet Counts
+// TI, Rate,  Prm, Mod, Ptn, PLen, PCnt
+// None      C=01   LPr       A           00
+// PketTx    C=02   SPr       B           05
+// PketRx    C=55   LGI       G           0A
+// ConsTx    C=11   SGI       N           0F
+// CrSnTX    O=06                         50
+// OSnTTx    O=09                         55
+// PMACLb    O=12                         5A
+// OFDMLb    O=18                         5F
+// CCK_Lb    O=24                         A0
+// RfStMd    O=36                         A5
+// RfDSMd    O=48                         AA
+// RfSlMd    O=54                         AF
+// BBRest    M=00                         F0
+// ReInit    M=01                         F5
+//           M=02                         FA
+//           M=03                         FF
+//           M=04                         Rm
+//           M=05
+//           M=06
+//           M=07
+//           M=08
+//           M=09
+//           M=10
+//           M=11
+//           M=12
+//           M=13
+//           M=14
+//           M=15
+/////////////////////////////////////////////////////////////
+PketTx  C=01    LPr   N   Rm  64  100
+PketTx  C=02    LPr   N   Rm  64  100
+PketTx  C=55    LPr   N   Rm  64  100
+PketTx  C=11    LPr   N   Rm  64  100
+PketTx  O=06    LPr   N   Rm  64  100
+PketTx  O=09    LPr   N   Rm  64  100
+PketTx  O=12    LPr   N   Rm  64  100
+PketTx  O=18    LPr   N   Rm  64  100
+PketTx  O=24    LPr   N   Rm  64  100
+PketTx  O=36    LPr   N   Rm  64  100
+PketTx  O=48    LPr   N   Rm  64  100
+PketTx  O=54    LPr   N   Rm  64  100
+PketTx  M=00    SGI   N   Rm  64  100
+PketTx  M=01    SGI   N   Rm  64  100
+PketTx  M=02    SGI   N   Rm  64  100
+PketTx  M=03    SGI   N   Rm  64  100
+PketTx  M=04    SGI   N   Rm  64  100
+PketTx  M=05    SGI   N   Rm  64  100
+PketTx  M=06    SGI   N   Rm  64  100
+PketTx  M=07    SGI   N   Rm  64  100
+PketTx  M=08    SGI   N   Rm  64  100
+PketTx  M=09    SGI   N   Rm  64  100
+PketTx  M=10    SGI   N   Rm  64  100
+PketTx  M=11    SGI   N   Rm  64  100
+PketTx  M=12    SGI   N   Rm  64  100
+PketTx  M=13    SGI   N   Rm  64  100
+PketTx  M=14    SGI   N   Rm  64  100
+PketTx  M=15    SGI   N   Rm  64  100
+:END

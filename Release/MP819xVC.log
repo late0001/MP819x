@@ -1,0 +1,12 @@
+﻿生成启动时间为 2020/10/16 15:25:16。
+     1>项目“D:\xv\cur_rtl8821c\USB\MP_Win7\MP819x-3\N6_Legacy\MP819xVC.vcxproj”在节点 2 上(Rebuild 个目标)。
+       项目文件包含 ToolsVersion="11.0"。此工具集可能未知或缺失。在这种情况下，通过安装 MSBuild 的正确版本，或许可以解决此问题。否则，该 build 可能已因策略原因而被强制为某个特定 ToolsVersion。将该项目视为其已具有 ToolsVersion="4.0"。有关详细信息，请参阅 http://go.microsoft.com/fwlink/?LinkId=291333。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"d:\Program Files (x86)\Visual Leak Detector\include" /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D NDEBUG /D _WINDOWS /D _ATL_VER=0x1001 /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm- /MD /GS- /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp".\Release\MP819xVC.pch" /Fo".\Release\\" /Fd".\Release\vc110.pdb" /FR".\Release\\" /Gd /TP /analyze- /errorReport:prompt StdAfx.cpp
+         StdAfx.cpp
+     1>d:\xv\cur_rtl8821c\usb\mp_win7\mp819x-3\n6_legacy\targetver.h(8): fatal error C1083: 无法打开包括文件:“SDKDDKVer.h”: No such file or directory
+     1>已完成生成项目“D:\xv\cur_rtl8821c\USB\MP_Win7\MP819x-3\N6_Legacy\MP819xVC.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.41

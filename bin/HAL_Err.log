@@ -1,0 +1,164 @@
+2020-10-15 16:48:16  Error: net_verify_conn(1778): Connect sock: 1384.
+2020-10-15 16:48:16  Error: net_verify_conn(1778): Connect sock: 1416.
+2020-10-15 16:48:17  Error: net_read_reply(2099): server return error code: 11
+2020-10-15 16:48:17  Error: s32ProLv_get_file(1898): net_read_file failed !, file name:SpectrumOffsetCalc.csv
+
+2020-10-16 10:18:57  Error: net_verify_conn(1778): Connect sock: 1576.
+2020-10-16 10:18:57  Error: net_verify_conn(1778): Connect sock: 1572.
+2020-10-16 10:18:57  Error: net_read_reply(2099): server return error code: 11
+2020-10-16 10:18:57  Error: s32ProLv_get_file(1898): net_read_file failed !, file name:SpectrumOffsetCalc.csv
+
+2020-10-16 10:27:36  Error: net_verify_conn(1778): Connect sock: 1552.
+2020-10-16 10:27:36  Error: net_verify_conn(1778): Connect sock: 1584.
+2020-10-16 10:27:36  Error: net_read_reply(2099): server return error code: 11
+2020-10-16 10:27:36  Error: s32ProLv_get_file(1898): net_read_file failed !, file name:SpectrumOffsetCalc.csv
+
+2020-10-16 10:33:28  Error: net_verify_conn(1778): Connect sock: 1472.
+2020-10-16 10:33:28  Error: net_verify_conn(1778): Connect sock: 1496.
+2020-10-16 10:33:28  Error: net_read_reply(2099): server return error code: 11
+2020-10-16 10:33:28  Error: s32ProLv_get_file(1898): net_read_file failed !, file name:SpectrumOffsetCalc.csv
+
+2020-10-16 10:35:29  Error: net_verify_conn(1778): Connect sock: 1512.
+2020-10-16 10:35:29  Error: net_verify_conn(1778): Connect sock: 1064.
+2020-10-16 10:35:30  Error: net_read_reply(2099): server return error code: 11
+2020-10-16 10:35:30  Error: s32ProLv_get_file(1898): net_read_file failed !, file name:SpectrumOffsetCalc.csv
+
+2020-10-16 10:36:30  Error: net_verify_conn(1778): Connect sock: 1400.
+2020-10-16 10:36:30  Error: net_verify_conn(1778): Connect sock: 1432.
+2020-10-16 10:36:30  Error: net_read_reply(2099): server return error code: 11
+2020-10-16 10:36:30  Error: s32ProLv_get_file(1898): net_read_file failed !, file name:SpectrumOffsetCalc.csv
+
+2020-10-16 10:45:35  Error: net_verify_conn(1778): Connect sock: 1456.
+2020-10-16 10:45:35  Error: net_verify_conn(1778): Connect sock: 1544.
+2020-10-16 10:45:35  Error: net_read_reply(2099): server return error code: 11
+2020-10-16 10:45:35  Error: s32ProLv_get_file(1898): net_read_file failed !, file name:SpectrumOffsetCalc.csv
+
+2020-10-16 10:47:35  Error: select_rcv(985): sock recv Error 0 , recv_len: 0, sock: 1500 
+2020-10-16 10:47:35  Error: net_verify_conn(1743): Connect Failed: verify failed
+2020-10-16 10:47:35  Error: s32ProLv_con_open(159): net_conn: host
+
+2020-10-16 10:47:42  Error: net_verify_conn(1778): Connect sock: 1532.
+2020-10-16 10:47:42  Error: net_verify_conn(1778): Connect sock: 1500.
+2020-10-16 10:47:42  Error: net_read_reply(2099): server return error code: 11
+2020-10-16 10:47:42  Error: s32ProLv_get_file(1898): net_read_file failed !, file name:SpectrumOffsetCalc.csv
+
+2020-10-16 10:49:13  Error: net_verify_conn(1778): Connect sock: 1476.
+2020-10-16 10:49:13  Error: net_verify_conn(1778): Connect sock: 1508.
+2020-10-16 10:49:13  Error: net_read_reply(2099): server return error code: 11
+2020-10-16 10:49:13  Error: s32ProLv_get_file(1898): net_read_file failed !, file name:SpectrumOffsetCalc.csv
+
+2020-10-16 10:50:12  Error: net_verify_conn(1778): Connect sock: 1568.
+2020-10-16 10:50:12  Error: net_verify_conn(1778): Connect sock: 1604.
+2020-10-16 10:50:12  Error: net_read_reply(2099): server return error code: 11
+2020-10-16 10:50:12  Error: s32ProLv_get_file(1898): net_read_file failed !, file name:SpectrumOffsetCalc.csv
+
+2020-10-16 11:14:48  Error: net_verify_conn(1778): Connect sock: 1468.
+2020-10-16 11:14:48  Error: net_verify_conn(1778): Connect sock: 1496.
+2020-10-16 11:14:48  Error: net_read_reply(2099): server return error code: 11
+2020-10-16 11:14:48  Error: s32ProLv_get_file(1898): net_read_file failed !, file name:SpectrumOffsetCalc.csv
+
+2020-10-16 11:16:45  Error: net_verify_conn(1778): Connect sock: 1500.
+2020-10-16 11:16:45  Error: net_verify_conn(1778): Connect sock: 1516.
+2020-10-16 11:16:45  Error: net_read_reply(2099): server return error code: 11
+2020-10-16 11:16:45  Error: s32ProLv_get_file(1898): net_read_file failed !, file name:SpectrumOffsetCalc.csv
+
+2020-10-16 14:22:10  Error: net_verify_conn(1778): Connect sock: 1460.
+2020-10-16 14:22:10  Error: net_verify_conn(1778): Connect sock: 1492.
+2020-10-16 14:22:10  Error: net_read_reply(2099): server return error code: 11
+2020-10-16 14:22:10  Error: s32ProLv_get_file(1898): net_read_file failed !, file name:SpectrumOffsetCalc.csv
+
+2020-10-16 14:24:12  Error: net_verify_conn(1778): Connect sock: 1528.
+2020-10-16 14:24:12  Error: net_verify_conn(1778): Connect sock: 1564.
+2020-10-16 14:24:12  Error: net_read_reply(2099): server return error code: 11
+2020-10-16 14:24:12  Error: s32ProLv_get_file(1898): net_read_file failed !, file name:SpectrumOffsetCalc.csv
+
+2020-10-16 14:42:57  Error: select_rcv(985): sock recv Error 0 , recv_len: 0, sock: 1856 
+2020-10-16 14:42:57  Error: net_verify_conn(1743): Connect Failed: verify failed
+2020-10-16 14:42:57  Error: s32ProLv_con_open(159): net_conn: host
+
+2020-10-16 14:46:48  Error: net_verify_conn(1778): Connect sock: 1984.
+2020-10-16 14:46:48  Error: net_verify_conn(1778): Connect sock: 1968.
+2020-10-16 14:46:48  Error: net_read_reply(2099): server return error code: 11
+2020-10-16 14:46:48  Error: s32ProLv_get_file(1898): net_read_file failed !, file name:SpectrumOffsetCalc.csv
+
+2020-10-16 14:48:40  Error: select_rcv(985): sock recv Error 0 , recv_len: 0, sock: 1924 
+2020-10-16 14:48:40  Error: net_verify_conn(1743): Connect Failed: verify failed
+2020-10-16 14:48:40  Error: s32ProLv_con_open(159): net_conn: host
+
+2020-10-16 14:48:49  Error: net_verify_conn(1778): Connect sock: 1852.
+2020-10-16 14:48:49  Error: net_verify_conn(1778): Connect sock: 1924.
+2020-10-16 14:48:49  Error: net_read_reply(2099): server return error code: 11
+2020-10-16 14:48:49  Error: s32ProLv_get_file(1898): net_read_file failed !, file name:SpectrumOffsetCalc.csv
+
+2020-10-16 14:51:55  Error: select_rcv(985): sock recv Error 0 , recv_len: 0, sock: 1980 
+2020-10-16 14:51:55  Error: net_verify_conn(1743): Connect Failed: verify failed
+2020-10-16 14:51:55  Error: s32ProLv_con_open(159): net_conn: host
+
+2020-10-27 15:12:53  Error: net_verify_conn(1778): Connect sock: 1076.
+2020-10-27 15:12:53  Error: net_verify_conn(1778): Connect sock: 1404.
+2020-10-27 15:12:53  Error: net_read_reply(2099): server return error code: 11
+2020-10-27 15:12:53  Error: s32ProLv_get_file(1898): net_read_file failed !, file name:SpectrumOffsetCalc.csv
+
+2020-10-27 15:37:08  Error: net_verify_conn(1778): Connect sock: 1600.
+2020-10-27 15:37:08  Error: net_verify_conn(1778): Connect sock: 1632.
+2020-10-27 15:37:08  Error: net_read_reply(2099): server return error code: 11
+2020-10-27 15:37:08  Error: s32ProLv_get_file(1898): net_read_file failed !, file name:SpectrumOffsetCalc.csv
+
+2020-10-27 15:40:33  Error: net_verify_conn(1778): Connect sock: 1472.
+2020-10-27 15:40:33  Error: net_verify_conn(1778): Connect sock: 1520.
+2020-10-27 15:40:33  Error: net_read_reply(2099): server return error code: 11
+2020-10-27 15:40:33  Error: s32ProLv_get_file(1898): net_read_file failed !, file name:SpectrumOffsetCalc.csv
+
+2020-10-27 15:51:33  Error: net_verify_conn(1778): Connect sock: 1524.
+2020-10-27 15:51:33  Error: net_verify_conn(1778): Connect sock: 1548.
+2020-10-27 15:51:33  Error: net_read_reply(2099): server return error code: 11
+2020-10-27 15:51:33  Error: s32ProLv_get_file(1898): net_read_file failed !, file name:SpectrumOffsetCalc.csv
+
+2020-10-27 15:52:52  Error: net_verify_conn(1778): Connect sock: 1528.
+2020-10-27 15:52:52  Error: net_verify_conn(1778): Connect sock: 1556.
+2020-10-27 15:52:52  Error: net_read_reply(2099): server return error code: 11
+2020-10-27 15:52:52  Error: s32ProLv_get_file(1898): net_read_file failed !, file name:SpectrumOffsetCalc.csv
+
+2020-10-27 16:15:29  Error: select_rcv(985): sock recv Error 0 , recv_len: 0, sock: 1628 
+2020-10-27 16:15:29  Error: net_verify_conn(1743): Connect Failed: verify failed
+2020-10-27 16:15:29  Error: s32ProLv_con_open(159): net_conn: host
+
+2020-10-27 16:15:39  Error: select_rcv(985): sock recv Error 0 , recv_len: 0, sock: 1608 
+2020-10-27 16:15:39  Error: net_verify_conn(1743): Connect Failed: verify failed
+2020-10-27 16:15:39  Error: s32ProLv_con_open(159): net_conn: host
+
+2020-10-27 16:15:56  Error: net_verify_conn(1778): Connect sock: 1256.
+2020-10-27 16:15:56  Error: net_verify_conn(1778): Connect sock: 1360.
+2020-10-27 16:15:56  Error: net_read_reply(2099): server return error code: 11
+2020-10-27 16:15:56  Error: s32ProLv_get_file(1898): net_read_file failed !, file name:SpectrumOffsetCalc.csv
+
+2020-10-27 16:17:22  Error: net_verify_conn(1778): Connect sock: 1312.
+2020-10-27 16:17:22  Error: net_verify_conn(1778): Connect sock: 1340.
+2020-10-27 16:17:22  Error: net_read_reply(2099): server return error code: 11
+2020-10-27 16:17:22  Error: s32ProLv_get_file(1898): net_read_file failed !, file name:SpectrumOffsetCalc.csv
+
+2020-10-27 17:52:51  Error: net_verify_conn(1778): Connect sock: 1292.
+2020-10-27 17:52:51  Error: net_verify_conn(1778): Connect sock: 1376.
+2020-10-27 17:52:51  Error: net_read_reply(2099): server return error code: 11
+2020-10-27 17:52:51  Error: s32ProLv_get_file(1898): net_read_file failed !, file name:SpectrumOffsetCalc.csv
+
+2020-10-27 17:56:51  Error: net_verify_conn(1778): Connect sock: 1500.
+2020-10-27 17:56:51  Error: net_verify_conn(1778): Connect sock: 1548.
+2020-10-27 17:56:51  Error: net_read_reply(2099): server return error code: 11
+2020-10-27 17:56:51  Error: s32ProLv_get_file(1898): net_read_file failed !, file name:SpectrumOffsetCalc.csv
+
+2020-10-27 17:57:57  Error: net_verify_conn(1778): Connect sock: 1496.
+2020-10-27 17:57:57  Error: net_verify_conn(1778): Connect sock: 1528.
+2020-10-27 17:57:57  Error: net_read_reply(2099): server return error code: 11
+2020-10-27 17:57:57  Error: s32ProLv_get_file(1898): net_read_file failed !, file name:SpectrumOffsetCalc.csv
+
+2020-10-27 18:13:50  Error: net_verify_conn(1778): Connect sock: 1520.
+2020-10-27 18:13:50  Error: net_verify_conn(1778): Connect sock: 1536.
+2020-10-27 18:13:50  Error: net_read_reply(2099): server return error code: 11
+2020-10-27 18:13:50  Error: s32ProLv_get_file(1898): net_read_file failed !, file name:SpectrumOffsetCalc.csv
+
+2020-10-27 18:17:52  Error: net_verify_conn(1778): Connect sock: 1484.
+2020-10-27 18:17:52  Error: net_verify_conn(1778): Connect sock: 1516.
+2020-10-27 18:17:52  Error: net_read_reply(2099): server return error code: 11
+2020-10-27 18:17:52  Error: s32ProLv_get_file(1898): net_read_file failed !, file name:SpectrumOffsetCalc.csv
+

@@ -1,0 +1,58 @@
+-------------------------------------------------------------------------------
+<05/04/2010 18:35 chiyokolin>
+New Files:	
+Modified Files:
+	RTL819xVC/MP819xVCDlg.cpp
+	RTL819xVC/RtlFunc.h
+	
+Change Notes:
+	1.Mark Txpower settings according to antenna selection.
+	2.Support 92ce 1x2
+	
+Verification before checked-in:	
+-------------------------------------------------------------------------------
+<01/25/2010 18:35 chiyokolin>
+New Files:	
+Modified Files:
+	RTL819xVC/MP819xVC.rc
+	RTL819xVC/MP819xVCDlg.cpp
+	RTL819xVC/MP819xVCDlg.h
+	RTL819xVC/packet32.H
+	RTL819xVC/Resource.h
+	RTL819xVC/RtlFunc.cpp
+	RTL819xVC/RtlFunc.h
+	
+Change Notes:
+	1. Add Rf Path switching button.
+	
+Verification before checked-in:	
+-------------------------------------------------------------------------------
+<10/16/2009 18:35 Cosa>
+New Files:	
+Modified Files:
+	
+Change Notes:
+	1. Modify for error Mac Address.
+		- don't check Mac Address when Tx packets. That may let packet dropped
+			by new protocol driver. (that will check Mac address and source 
+			address).
+	
+Verification before checked-in:	
+
+-------------------------------------------------------------------------------
+<09/28/2009 11:00 Cosa>
+New Files:	
+Modified Files:
+	
+Change Notes:
+	1. Modify for 92CE.
+	
+Verification before checked-in:	
+
+-------------------------------------------------------------------------------
+<------Template---->
+< ??/??/2008 00:00 Name >
+New Files:
+Modified Files:
+Change Notes:
+Verification before checked-in:
